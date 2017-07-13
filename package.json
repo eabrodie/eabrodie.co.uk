@@ -1,9 +1,10 @@
 {
   "name": "eabrodie.co.uk",
   "private": true,
-  "description": "A simple static website",
+  "description": "Eleanor's website",
   "dependencies": {
-    "express": "^4.13.3"
+    "express": "^4.13.3",
+    "pug": "^2.0.0-beta6"
   },
   "devDependencies": {
     "rimraf": "^2.5.0",
